@@ -2,7 +2,7 @@
 title: Something something something...
 draft: false
 date: 2022-11-01 06:30
-image: /assets/upload/moby-dick.jpg
+image: /assets/posts/kittens.jpg
 ---
 # Welcome
 
